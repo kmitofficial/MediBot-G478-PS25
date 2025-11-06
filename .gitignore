@@ -7,7 +7,7 @@ __pycache__/
 # Virtual environment folders
 venv/
 .venv/
-
+*.mp4
 # Environment variable files
 .env
 *.env
